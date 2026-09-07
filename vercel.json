@@ -1,0 +1,9 @@
+{
+  "outputDirectory": "dist/my-portfolio",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
